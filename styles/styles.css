@@ -31,6 +31,19 @@
     display: flex;
     text-align: center;
 }
+.user-surname{
+     border: none;
+     padding: 5px 20px;
+     border-radius: 5px;
+     flex: 0 0 50%;
+     opacity: 0.7;
+     transition: all .5s ease;
+     outline: none;
+     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+     justify-content: center;
+     display: flex;
+     text-align: center;
+ }
 .user-name:hover{
     opacity: 1;
 }
